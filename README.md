@@ -1,1 +1,1 @@
-# mytrex
+Google Chrome TRex-Game.
